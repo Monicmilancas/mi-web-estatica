@@ -65,7 +65,7 @@ header .logo {
 .main-content {
     flex-grow: 1;
     padding: 20px;
-    background-color: #fff;
+    background-color: #9dfade;
 }
 
 .main-content h2 {
@@ -80,7 +80,7 @@ header .logo {
 button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #4a90e2;
+    background-color: #291858;
     color: white;
     border: none;
     cursor: pointer;
